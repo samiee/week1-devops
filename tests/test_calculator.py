@@ -1,7 +1,7 @@
 from calculator import add,sub,mul,div
 def test_add():
     
-    assert add(1,1) == 0
+    assert add(1,1) == 1
 
 def test_sub():
     assert sub(1,1) == 0
